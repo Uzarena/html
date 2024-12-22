@@ -1,0 +1,44 @@
+.menu {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+
+.required {
+    color: red;
+}
+
+.area {
+    width: 70px;
+}
+
+.large {
+    width: 215px;
+}
+
+.mini {
+    width: 30px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 29%;
+}
+
+th, td {
+    border: 1px black solid;
+    padding: 12px;
+    border: 5%;
+}
+
+.center {
+    text-align: center;
+}
+
+.color {
+    background-color: #c3cad8;
+}
+
+.probel {
+    margin-right: 20px;
+}
